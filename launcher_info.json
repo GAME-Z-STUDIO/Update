@@ -1,1 +1,12 @@
+{
+  "version": "0.1.1",
+  "notes": "",
+  "pub_date": "2026-04-13T09:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "NỘI_DUNG_TRONG_FILE_SIG_CỦA_BỒ",
+      "url": "https://github.com/GAME-Z-STUDIO/BOI-Origin/releases/download/v0.1.1/launcher_0.1.1_x64_en-US.msi.zip"
+    }
+  }
+}
 
