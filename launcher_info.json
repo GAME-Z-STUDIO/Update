@@ -1,12 +1,11 @@
 {
-  "version": "0.0.2",
-  "notes": "",
-  "pub_date": "2026-04-13T09:30:00Z",
+  "version": "1.0.1",
+  "notes": "Recovered update repository.",
+  "pub_date": "2026-04-13T03:36:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQi9ieHFWSHNHenp1bmVxY29JK0pHSUpid0FrN2pLT0dmTm4zaTJ1VXg5NlovMkQydGZvY0dHV0NJZjBYUS9zNzhvSlgxaUNFeU5wZFphZWNPQ3VPV0Nmc0wrY3hvMkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQ4NDYxCWZpbGU6bGF1bmNoZXJfMC4wLjJfeDY0X2VuLVVTLm1zaQpZUkowZmNNQ2thWHNSdzdiSEtzbFpTZ0VaNG1WakJUMUJTeWtwYUZNZnMxTkdrUHFBRjlhUWhXRlc3V0lpWjJTcUxNcFk5dDA2cThES01sZCtTcEVDQT09Cg==",
-      "url": "https://github.com/GAME-Z-STUDIO/Update/blob/main/Launcher_Patch/launcher_0.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNk00LzFUQjNEdzhsNTlwRnExajRoL3VLNXVOQzJnQjFSeDJhMGpKempDWlN3NjhQVFhMOHNwL0Fza05ONytvcWdzeUl4MHQrNnRxZUhscE9qaTBQUkFNYmx1SVFHNVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDY3OTMxCWZpbGU6Z3otbGF1bmNoZXJfMS4wLjFfeDY0X2VuLVVTLm1zaQowcUtmTndCaU9RSmY3VFZxZHJzSGV0THNpbldBaERxSVA1eC9CWWFxYkxFRnhHbHVUWkdDMndDUnRoK0swaHFEak52UjNnbktQMmgrcVRMZVA2T3BCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/vnZNetwork/GZ-Service/main/Launcher/gz-launcher_1.0.1_x64_en-US.msi"
     }
   }
 }
-
