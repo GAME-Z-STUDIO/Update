@@ -4,8 +4,8 @@
   "pub_date": "2026-04-13T09:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "NỘI_DUNG_TRONG_FILE_SIG_CỦA_BỒ",
-      "url": "https://github.com/GAME-Z-STUDIO/BOI-Origin/releases/download/v0.1.1/launcher_0.1.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQi9ieHFWSHNHenp1bmVxY29JK0pHSUpid0FrN2pLT0dmTm4zaTJ1VXg5NlovMkQydGZvY0dHV0NJZjBYUS9zNzhvSlgxaUNFeU5wZFphZWNPQ3VPV0Nmc0wrY3hvMkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQ4NDYxCWZpbGU6bGF1bmNoZXJfMC4wLjJfeDY0X2VuLVVTLm1zaQpZUkowZmNNQ2thWHNSdzdiSEtzbFpTZ0VaNG1WakJUMUJTeWtwYUZNZnMxTkdrUHFBRjlhUWhXRlc3V0lpWjJTcUxNcFk5dDA2cThES01sZCtTcEVDQT09Cg==",
+      "url": "https://github.com/GAME-Z-STUDIO/Update/blob/main/Launcher_Patch/launcher_0.0.2_x64_en-US.msi"
     }
   }
 }
